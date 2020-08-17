@@ -1,0 +1,34 @@
+import twitch
+import pyserial
+import time
+
+def handle_message(message: twitch.chat.Message) -> None:
+	#Start with the help message
+	if message.text.startswith('!help'):
+		message.chat.send(f'@{message.user().display_name}, I have several options:')
+		message.chat.send(f'	!up, !down, !left, !right - These will move the claw in the direction specified')
+		message.chat.send(f'	!grab - this will lower the claw NOTE: you get one of these per day')
+		message.chat.send(f'	!reject - slap the prize out of the shoot NOTE: you get one of these per day'')
+		message.chat.send(f'DM me with your address and I will mail you your prize')
+
+	if message.text.startswith('!grab'):
+		ser.write(b'M106)	
+		time.sleep(10)
+		ser.write(b'M107)	
+
+def main():
+	ser = serial.Serial('/dev/ttyUSB0', 115200)
+	
+
+    chat = twitch.Chat(channel='#rickertbuilds',
+                       nickname='the_claw',
+                       oauth='oauth:xxxxxx',
+                       helix=twitch.Helix(client_id='xxxxxx', use_cache=True))
+
+    chat.subscribe(handle_message)
+
+	
+
+
+if __name__ == '__main__':
+    main()

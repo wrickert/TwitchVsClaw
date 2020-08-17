@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="68.34mm" height="93.99316772460938mm" viewBox="0 0 68.34 93.99316772460938" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Line008" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Line008_w0000"  d="M -24.999881744384766 -3.652999877929688 L -25.0 7.346839904785156 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Line008'</title>
+</g>
+<g id="Circle003" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-9.180981636047369" cy="-29.07982635498055" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle003'</title>
+</g>
+<g id="Circle002" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="11.410143661499022" cy="40.78101730346386" r="2.1" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle002'</title>
+</g>
+<g id="Circle001" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-19.4" cy="-9.241338348388677" r="1.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001'</title>
+</g>
+<g id="Line003" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Line003_w0000"  d="M -25.0 -45.653160095214844 L -24.999881744384766 -3.6529998779296875 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Line003'</title>
+</g>
+<g id="Clone2D" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="11.4" cy="-9.241338348388673" r="1.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D)'</title>
+</g>
+<g id="Wire" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Wire_w0000"  d="M 19.0 47.000003814697266 L -1.0 47.0 L -25.0 7.346839904785156 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Wire'</title>
+</g>
+<g id="Circle" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-4.0" cy="-24.653160095214844" r="11.25" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle'</title>
+</g>
+<g id="Clone2D002" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-19.4" cy="-40.04133834838868" r="1.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D)001'</title>
+</g>
+<g id="Line" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Line_w0000"  d="M 16.995588302612305 -45.653160095214844 L 18.998963355850453 -45.65316209334252 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Line'</title>
+</g>
+<g id="Clone2D004" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="11.410143661499022" cy="10.781017303463862" r="2.1" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle002 (2D)001'</title>
+</g>
+<g id="Construction" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-9.180981636047369" cy="-29.07982635498055" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-9.123037090301516" cy="-29.095442652458857" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-0.09289707779884715" cy="-28.96369063828797" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-0.1508416235447001" cy="-28.948074340809665" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-0.003387004137047178" cy="-20.053619384742962" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="0.05455754160880577" cy="-20.06923568222127" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-8.898342152833944" cy="-20.068327784260294" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-8.956286698579799" cy="-20.052711486781988" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="33.99929428100586" cy="-15.967267990112303" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Wire001_w0000"  d="M 18.99896240234375 -45.65316390991211 L 42.0 -20.999999999999996 L 42.0 5.0 L 18.999999999999993 47.000003814697266 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Construction'</title>
+</g>
+<g id="Clone2D001" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="11.4" cy="-40.04133834838868" r="1.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D) (2D)'</title>
+</g>
+<g id="Line002" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Line002_w0000"  d="M 17.0 -45.65316200256348 L -25.0 -45.653160095214844 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Line002'</title>
+</g>
+<g id="Circle004" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-9.123037090301516" cy="-29.095442652458857" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle004'</title>
+</g>
+<g id="Clone2D006" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-0.1508416235447001" cy="-28.948074340809665" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle003 (2D)'</title>
+</g>
+<g id="Clone2D008" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="0.05455754160880577" cy="-20.06923568222127" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle004 (2D) (2D)'</title>
+</g>
+<g id="Clone2D005" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-0.09289707779884715" cy="-28.96369063828797" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle004 (2D)'</title>
+</g>
+<g id="Clone2D007" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-0.003387004137047178" cy="-20.053619384742962" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle003 (2D) (2D)'</title>
+</g>
+<g id="Circle005" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="33.99929428100586" cy="-15.967267990112303" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle005'</title>
+</g>
+<g id="Clone2D009" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-8.898342152833944" cy="-20.068327784260294" r="4.15" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle004 (2D) (2D) (2D)'</title>
+</g>
+<g id="Clone2D010" transform="translate(25.670000,47.670004) scale(1,-1)">
+<circle cx="-8.956286698579799" cy="-20.052711486781988" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle003 (2D) (2D) (2D)'</title>
+</g>
+<g id="Wire001" transform="translate(25.670000,47.670004) scale(1,-1)">
+<path id="Wire001_w0000"  d="M 18.99896240234375 -45.65316390991211 L 42.0 -20.999999999999996 L 42.0 5.0 L 18.999999999999993 47.000003814697266 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Wire001'</title>
+</g>
+</svg>

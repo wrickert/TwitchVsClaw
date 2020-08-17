@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="211.7070030212402mm" height="199.6001152038574mm" viewBox="0 0 211.7070030212402 199.6001152038574" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Construction" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="54.313220858573914" cy="13.374154973030091" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-25.186779141426086" cy="-20.425845026969917" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Rectangle001_w0000"  d="M -43.0 -107.5 L 1.5 -107.5 L 1.5 -49.5 L -43.0 -49.5 L -43.0 -107.5 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Rectangle002_w0000"  d="M 9.5 -118.91594696044922 L 67.4 -118.91594696044922 L 67.4 -33.91594696044922 L 9.5 -33.91594696044922 L 9.5 -118.91594696044922 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="63.29934146404266" cy="-116.10457637310029" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="15.041913866996765" cy="-37.52329490184785" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-20.50103199481964" cy="-103.00167167186737" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Clone2D006_w0000"  d="M 75.5 -118.91594696044922 L 133.4 -118.91594696044922 L 133.4 -33.91594696044922 L 75.5 -33.91594696044922 L 75.5 -118.91594696044922 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="81.04191386699677" cy="-37.52329490184785" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="129.29934146404267" cy="-116.10457637310029" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Rectangle003_w0000"  d="M -63.555885314941406 -129.0 L 144.0 -129.0 L 144.0 66.4489974975586 L -63.555885314941406 66.4489974975586 L -63.555885314941406 -129.0 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="-53.555885314941406" cy="26.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-23.555885314941406" cy="56.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path d="M 143.70000000000002 66.4489974975586 L 144.00000000000003 66.4489974975586 L 144.00000000000003 -129.0 L 143.70000000000002 -129.0" fill="none" stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="143.70000000000002 66.4489974975586" freecad:basepoint2="143.70000000000002 -129.0" freecad:dimpoint="144.00000000000003 66.4489974975586"/>
+<circle cx="144.00000000000003" cy="66.4489974975586" r="0.13333333333333333" fill="#2c7dff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="144.00000000000003" cy="-129.0" r="0.13333333333333333" fill="#2c7dff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#2c7dff" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,144.05000000000004,-31.275501251220703) translate(144.05000000000004,-31.275501251220703) scale(1,-1) " freecad:skip="1">
+195.45 mm</text>
+<circle cx="116.4441146850586" cy="56.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-53.555885314941406" cy="-93.55099487304688" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Construction'</title>
+</g>
+<g id="Rectangle001" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path id="Rectangle001_w0000"  d="M -43.0 -107.5 L 1.5 -107.5 L 1.5 -49.5 L -43.0 -49.5 L -43.0 -107.5 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Rectangle001'</title>
+</g>
+<g id="Circle" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="54.313220858573914" cy="13.374154973030091" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle'</title>
+</g>
+<g id="Clone2D" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-25.186779141426086" cy="-20.425845026969917" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D)'</title>
+</g>
+<g id="Clone2D001" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-40.686779141426086" cy="43.57415497303008" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D) (2D)'</title>
+</g>
+<g id="Rectangle" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path id="Rectangle_w0000"  d="M -43.568058013916016 -23.85100555419922 L 57.23194198608398 -23.85100555419922 L 57.23194198608398 46.44899444580078 L -43.568058013916016 46.44899444580078 L -43.568058013916016 -23.85100555419922 " stroke="#3465a4" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Rectangle'</title>
+</g>
+<g id="Rectangle002" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path id="Rectangle002_w0000"  d="M 9.5 -118.91594696044922 L 67.4 -118.91594696044922 L 67.4 -33.91594696044922 L 9.5 -33.91594696044922 L 9.5 -118.91594696044922 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Rectangle002'</title>
+</g>
+<g id="Clone2D002" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="63.29934146404266" cy="-116.10457637310029" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D)001'</title>
+</g>
+<g id="Clone2D003" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="15.041913866996765" cy="-37.52329490184785" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D) (2D)001'</title>
+</g>
+<g id="Clone2D005" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-20.50103199481964" cy="-103.00167167186737" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D) (2D)002 (2D)'</title>
+</g>
+<g id="Clone2D004" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-20.48820698261261" cy="-54.01939857006074" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D) (2D)002'</title>
+</g>
+<g id="Clone2D008" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="129.29934146404267" cy="-116.10457637310029" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D)001 (2D)'</title>
+</g>
+<g id="Clone2D006" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path id="Clone2D006_w0000"  d="M 75.5 -118.91594696044922 L 133.4 -118.91594696044922 L 133.4 -33.91594696044922 L 75.5 -33.91594696044922 L 75.5 -118.91594696044922 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Rectangle002 (2D)'</title>
+</g>
+<g id="Clone2D007" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="81.04191386699677" cy="-37.52329490184785" r="2.05" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle (2D) (2D)001 (2D)'</title>
+</g>
+<g id="Rectangle003" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path id="Rectangle003_w0000"  d="M -63.555885314941406 -129.0 L 144.0 -129.0 L 144.0 66.4489974975586 L -63.555885314941406 66.4489974975586 L -63.555885314941406 -129.0 " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Rectangle003'</title>
+</g>
+<g id="Clone2D009" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-23.555885314941406" cy="56.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D)'</title>
+</g>
+<g id="Dimension" transform="translate(65.631444,68.524556) scale(1,-1)">
+<path d="M 143.70000000000002 66.4489974975586 L 144.00000000000003 66.4489974975586 L 144.00000000000003 -129.0 L 143.70000000000002 -129.0" fill="none" stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="143.70000000000002 66.4489974975586" freecad:basepoint2="143.70000000000002 -129.0" freecad:dimpoint="144.00000000000003 66.4489974975586"/>
+<circle cx="144.00000000000003" cy="66.4489974975586" r="0.13333333333333333" fill="#2c7dff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="144.00000000000003" cy="-129.0" r="0.13333333333333333" fill="#2c7dff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#2c7dff" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,144.05000000000004,-31.275501251220703) translate(144.05000000000004,-31.275501251220703) scale(1,-1) " freecad:skip="1">
+195.45 mm</text>
+<title>b'Dimension'</title>
+</g>
+<g id="Circle001" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-53.555885314941406" cy="26.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001'</title>
+</g>
+<g id="Clone2D011" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="-53.555885314941406" cy="-93.55099487304688" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D)001'</title>
+</g>
+<g id="Clone2D010" transform="translate(65.631444,68.524556) scale(1,-1)">
+<circle cx="116.4441146850586" cy="56.449005126953125" r="2.6" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Circle001 (2D) (2D)'</title>
+</g>
+</svg>
