@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40.49399999999997mm" height="24.794003051757784mm" viewBox="0 0 40.49399999999997 24.794003051757784" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Rectangle" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M -213.0 198.0 L -173.3 198.0 L -173.3 214.2 L -213.0 214.2 L -213.0 198.0 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Rectangle'</title>
+</g>
+<g id="Clone2D" transform="translate(213.397000,214.597000) scale(1,-1)">
+<circle cx="-195.61743774414063" cy="211.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle (2D)'</title>
+</g>
+<g id="Circle" transform="translate(213.397000,214.597000) scale(1,-1)">
+<circle cx="-176.4174377441406" cy="211.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle'</title>
+</g>
+<g id="Rectangle001" transform="translate(213.397000,214.597000) scale(1,-1)">
+<title>b'Rectangle001'</title>
+</g>
+<g id="Rectangle003" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Rectangle003_f0000"  d="M -203.6998779296875 201.0999969482422 L -199.89987792968748 201.0999969482422 L -199.89987792968748 211.4999969482422 L -203.6998779296875 211.4999969482422 L -203.6998779296875 201.0999969482422 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Rectangle003'</title>
+</g>
+<g id="Rectangle002" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Rectangle002_f0000"  d="M -193.25 202.89999694824218 L -179.75 202.89999694824218 L -179.75 206.89999694824218 L -193.25 206.89999694824218 L -193.25 202.89999694824218 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Rectangle002'</title>
+</g>
+<g id="Construction" transform="translate(213.397000,214.597000) scale(1,-1)">
+<circle cx="-195.61743774414063" cy="194.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Rectangle004_f0000"  d="M -212.9984588623047 190.1999969482422 L -190.9984588623047 190.1999969482422 L -190.9984588623047 214.1999969482422 L -212.9984588623047 214.1999969482422 L -212.9984588623047 190.1999969482422 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#2c7dff;fill-opacity:0.19999999999999996;fill-rule: evenodd "/>
+<path id="Line_w0000"  d="M -213.0 214.1999969482422 L -173.3000030517578 214.1999969482422 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Fusion_f0000"  d="M -212.9984588623047 198.0 L -212.9984588623047 190.1999969482422 L -190.9984588623047 190.1999969482422 L -190.9984588623047 198.0 L -173.3 198.0 L -173.3 214.2 L -213.0 214.2 L -213.0 198.0 L -212.9984588623047 198.0 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#2c7dff;fill-opacity:0.19999999999999996;fill-rule: evenodd "/>
+<title>b'Construction'</title>
+</g>
+<g id="Clone2D001" transform="translate(213.397000,214.597000) scale(1,-1)">
+<circle cx="-195.61743774414063" cy="194.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle (2D) (2D)'</title>
+</g>
+<g id="Rectangle004" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Rectangle004_f0000"  d="M -212.9984588623047 190.1999969482422 L -190.9984588623047 190.1999969482422 L -190.9984588623047 214.1999969482422 L -212.9984588623047 214.1999969482422 L -212.9984588623047 190.1999969482422 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#2c7dff;fill-opacity:0.19999999999999996;fill-rule: evenodd "/>
+<title>b'Rectangle004'</title>
+</g>
+<g id="Fusion" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Fusion_f0000"  d="M -212.9984588623047 198.0 L -212.9984588623047 190.1999969482422 L -190.9984588623047 190.1999969482422 L -190.9984588623047 198.0 L -173.3 198.0 L -173.3 214.2 L -213.0 214.2 L -213.0 198.0 L -212.9984588623047 198.0 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#2c7dff;fill-opacity:0.19999999999999996;fill-rule: evenodd "/>
+<title>b'Fusion'</title>
+</g>
+<g id="Line" transform="translate(213.397000,214.597000) scale(1,-1)">
+<path id="Line_w0000"  d="M -213.0 214.1999969482422 L -173.3000030517578 214.1999969482422 " stroke="#2c7dff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Line'</title>
+</g>
+</svg>
