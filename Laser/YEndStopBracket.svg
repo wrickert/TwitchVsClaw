@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40.49399999999997mm" height="32.79399999999998mm" viewBox="0 0 40.49399999999997 32.79399999999998" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Fusion" transform="translate(213.397000,222.397000) scale(1,-1)">
+<path id="Fusion_f0000"  d="M -200.0 222.0 L -213.0 222.0 L -213.0 214.2 L -213.0 198.0 L -213.0 190.0 L -200.0 190.0 L -200.0 198.0 L -173.3 198.0 L -173.3 214.2 L -200.0 214.2 L -200.0 222.0 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Fusion'</title>
+</g>
+<g id="Clone2D" transform="translate(213.397000,222.397000) scale(1,-1)">
+<circle cx="-195.61743774414063" cy="211.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle (2D)'</title>
+</g>
+<g id="Circle" transform="translate(213.397000,222.397000) scale(1,-1)">
+<circle cx="-176.4174377441406" cy="211.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle'</title>
+</g>
+<g id="Rectangle002" transform="translate(213.397000,222.397000) scale(1,-1)">
+<path id="Rectangle002_f0000"  d="M -193.25 202.89999694824218 L -179.75 202.89999694824218 L -179.75 206.89999694824218 L -193.25 206.89999694824218 L -193.25 202.89999694824218 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Rectangle002'</title>
+</g>
+<g id="Rectangle003" transform="translate(213.397000,222.397000) scale(1,-1)">
+<path id="Rectangle003_f0000"  d="M -203.6998779296875 201.0999969482422 L -199.89987792968748 201.0999969482422 L -199.89987792968748 211.4999969482422 L -203.6998779296875 211.4999969482422 L -203.6998779296875 201.0999969482422 Z " stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Rectangle003'</title>
+</g>
+<g id="Clone2D002" transform="translate(213.397000,222.397000) scale(1,-1)">
+<circle cx="-206.61743774414063" cy="218.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle (2D) (2D) (2D)'</title>
+</g>
+<g id="Clone2D001" transform="translate(213.397000,222.397000) scale(1,-1)">
+<circle cx="-206.61743774414063" cy="194.14999694824218" r="1.75" stroke="#ff0000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Circle (2D) (2D)'</title>
+</g>
+</svg>
